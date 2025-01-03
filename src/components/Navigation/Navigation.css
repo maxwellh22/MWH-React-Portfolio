@@ -1,0 +1,14 @@
+.navigation {
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .nav-link {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav-link.active {
+    border-bottom: 2px solid #3498db;
+  }
