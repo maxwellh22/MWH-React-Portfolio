@@ -5,14 +5,11 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <a href="https://github.com/your-profile" target="_blank" rel="noreferrer">
+      <a href="https://github.com/maxwellh22" target="_blank" rel="noreferrer">
         <FaGithub />
       </a>
-      <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+      <a href="https://linkedin.com/in/maxwellhurst" target="_blank" rel="noreferrer">
         <FaLinkedin />
-      </a>
-      <a href="https://twitter.com/your-profile" target="_blank" rel="noreferrer">
-        <FaTwitter />
       </a>
     </footer>
   );

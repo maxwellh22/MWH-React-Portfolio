@@ -5,7 +5,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <header className="header">
-      <h1>Developer Name</h1>
+      <h1>Maxwell W. Hurst</h1>
       <Navigation />
     </header>
   );
