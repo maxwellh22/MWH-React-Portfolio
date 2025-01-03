@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaYoutube } from "react-icons/fa";
 import "./Footer.css";
 
 const Footer = () => {
@@ -11,6 +11,9 @@ const Footer = () => {
       <a href="https://linkedin.com/in/maxwellhurst" target="_blank" rel="noreferrer">
         <FaLinkedin />
       </a>
+      <a href="https://youtube.com/channel/@PresidentHurst" target="_blank" rel="noreferrer">
+      <FaYoutube />
+    </a>
     </footer>
   );
 };
