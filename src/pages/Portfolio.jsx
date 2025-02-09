@@ -5,7 +5,7 @@ import podcastImage from "../assets/images/ResilientFounders.png";
 import forbesImage from "../assets/images/F30U30FD.png";
 import keynoteImage from "../assets/images/Top-Scholars.png";
 import smallBizImage from "../assets/images/UNC-KF-Article.png";
-import studentHubImage from "../assets/images/1789-Promo-Video";
+import studentHubImage from "../assets/images/1789-Promo-Video.png";
 
 const projects = [
   {
